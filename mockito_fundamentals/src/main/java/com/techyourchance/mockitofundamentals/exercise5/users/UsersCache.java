@@ -4,6 +4,6 @@ public interface UsersCache {
 
     void cacheUser(User user);
 
-    User getUser(String userId);
 
+    User getUser(String userId);
 }
